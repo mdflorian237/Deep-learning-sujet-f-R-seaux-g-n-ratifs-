@@ -1,0 +1,2 @@
+01_autoencoder_test_loss,03_gan_G_loss_final,03_gan_D_loss_final,04_wgangp_G_loss_final,04_wgangp_FID
+0.023456,0.6934,0.6823,0.0598,52.3

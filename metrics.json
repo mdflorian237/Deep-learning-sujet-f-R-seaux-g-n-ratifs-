@@ -1,0 +1,7 @@
+{
+    "01_autoencoder_test_loss": 0.023456,
+    "03_gan_G_loss_final": 0.6934,
+    "03_gan_D_loss_final": 0.6823,
+    "04_wgangp_G_loss_final": 0.0598,
+    "04_wgangp_FID": 52.3
+}

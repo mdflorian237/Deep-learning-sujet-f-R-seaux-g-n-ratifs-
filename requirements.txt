@@ -1,0 +1,7 @@
+pytorch-fid
+streamlit>=1.28.0
+torch
+torchvision
+matplotlib
+numpy
+pillow
